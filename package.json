@@ -1,11 +1,6 @@
 {
   "devDependencies": {
     "nodemon": "^2.0.18"
-  },
-"main": "/index.js", 
-"scripts": {
-"start": "yarn run build && node /index.js",
-"build": "rimraf ./dist && tsc"
-}
+  }
 
 }
