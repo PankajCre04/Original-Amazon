@@ -31,7 +31,6 @@ class _ProductDetailScreenState extends State<ProductDetailScreen> {
       context: context,
       product: widget.product,
     );
-  
   }
 
   void navigateToAddress(int sum) {
